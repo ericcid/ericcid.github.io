@@ -1,1 +1,1 @@
-# ericcid.github.io
+http://ericcid.github.io
